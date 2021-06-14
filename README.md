@@ -20,4 +20,4 @@ http://localhost:8888/www.example.org
 ![example](./doc/example.png)
 
 ## Contribution
-This is code done by [Abdulwasay Mehar](https://github.com/masterrom) and [Haotian Yang](https://github.com/Haotian-Yang)
+This is assignment done by [Abdulwasay Mehar](https://github.com/masterrom) and [Haotian Yang](https://github.com/Haotian-Yang)

@@ -10,7 +10,7 @@ In you browser type http://localhost:8888/www.baidu.com
 
 The proxy will first cache the website and inject a yellow box with text to show the version of the website. 
 
-Note this proxy doesn't working for HTTPS, only working for HTTP website.
+Note this proxy doesn't work for HTTPS, only work for HTTP website.
 
 ![baidu](./doc/baidu.png)
 
@@ -20,4 +20,4 @@ http://localhost:8888/www.example.org
 ![example](./doc/example.png)
 
 ## Contribution
-This is assignment done by [Abdulwasay Mehar](https://github.com/masterrom) and [Haotian Yang](https://github.com/Haotian-Yang)
+This assignment was done by [Abdulwasay Mehar](https://github.com/masterrom) and [Haotian Yang](https://github.com/Haotian-Yang)

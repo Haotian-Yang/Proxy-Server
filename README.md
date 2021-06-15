@@ -13,6 +13,8 @@ The proxy will first cache the website and inject a yellow box with text to show
 
 Note this proxy doesn't work for HTTPS, only work for HTTP website.
 
+Make sure you `mkdir` a `cache` folder before run.
+
 ![baidu](./doc/baidu.png)
 
 

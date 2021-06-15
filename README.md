@@ -4,6 +4,7 @@ CSC358A1: A implementation of a small web proxy which is able to cache web pages
 
 ## Sample
 ```
+mkdir cache
 python3 proxy.py 120 // 120 indicates the cached item expires 120 after it's created
 ``` 
 In you browser type http://localhost:8888/www.baidu.com 
